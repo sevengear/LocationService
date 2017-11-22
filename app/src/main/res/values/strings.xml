@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NunezMA_U8</string>
+
+    <string name="asteroid_about">Acerca de</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAGkrXdzSYZ8Te8-pW4i9M-FyXm1rso0Qw
+    </string>
+</resources>
